@@ -18,3 +18,8 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 # Honorable Mentions
 - Google https://bughunters.google.com/leaderboard/honorable-mentions
 
+# Hall of Thanks - h1 platform
+- Brave
+- Quora
+- Weblate
+- Cloudflare
