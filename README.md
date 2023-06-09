@@ -23,3 +23,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Quora
 - Weblate
 - Cloudflare
+
+# Other
+- CircleCI (security swag)
+- Mozilla https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/ (wait for update)
