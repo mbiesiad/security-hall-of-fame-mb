@@ -6,6 +6,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Mercedes-Benz https://www.mercedes-benz.com/en/whitehat/
 - Robocorp https://robocorp.com/.well-known/security-hall-of-fame.html
 - Hopin https://hopin.com/hopin-events/security/hall-of-fame
+- Mozilla https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -26,4 +27,4 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 
 # Other
 - CircleCI (security swag)
-- Mozilla https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/ (wait for update)
+
