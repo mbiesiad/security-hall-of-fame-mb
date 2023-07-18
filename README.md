@@ -7,7 +7,8 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Robocorp https://robocorp.com/.well-known/security-hall-of-fame.html
 - Hopin https://hopin.com/hopin-events/security/hall-of-fame
 - Mozilla https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/
-- freeCodeCamp https://contribute.freecodecamp.org/#/security-hall-of-fame
+- freeCodeCamp https://contribute.freecodecamp.org/#/security-hall-of-fame 
+  -  CVE: GHSA-6c37-r62q-7xf4
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
