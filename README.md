@@ -29,4 +29,5 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 
 # Other
 - CircleCI (security swag)
+- Signify
 
