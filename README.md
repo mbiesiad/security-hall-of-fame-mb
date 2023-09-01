@@ -30,4 +30,5 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 # Other
 - CircleCI (security swag)
 - Signify
+- huntr.dev - Top 3 (2023-8)
 
