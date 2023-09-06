@@ -30,5 +30,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 # Other
 - CircleCI (security swag)
 - Signify
-- huntr.dev - Top 3 (2023-8)
+- Novu https://github.com/novuhq/novu/security/advisories/GHSA-mv6w-52pf-9qhf
+  -  CVE: GHSA-mv6w-52pf-9qhf
+- Huntr.dev - Top 3 (2023-8)
 
