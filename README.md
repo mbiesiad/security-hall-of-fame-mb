@@ -32,5 +32,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Signify
 - Novu https://github.com/novuhq/novu/security/advisories/GHSA-mv6w-52pf-9qhf
   -  CVE: GHSA-mv6w-52pf-9qhf
+- Tolgee https://github.com/tolgee/tolgee-platform/security/advisories/GHSA-gx3w-rwh5-w5cg
+  -  CVE: GHSA-gx3w-rwh5-w5cg
 - Huntr.dev - Top 3 (2023-8)
 
