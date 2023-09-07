@@ -8,7 +8,6 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Hopin https://hopin.com/hopin-events/security/hall-of-fame
 - Mozilla https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/
 - freeCodeCamp https://contribute.freecodecamp.org/#/security-hall-of-fame 
-  -  CVE: GHSA-6c37-r62q-7xf4
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -27,12 +26,13 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Weblate
 - Cloudflare
 
+# CVEs
+- GHSA-6c37-r62q-7xf4 - freeCodeCamp
+- GHSA-mv6w-52pf-9qhf - Novu
+- GHSA-gx3w-rwh5-w5cg - Tolgee
+
 # Other
 - CircleCI (security swag)
 - Signify
-- Novu https://github.com/novuhq/novu/security/advisories/GHSA-mv6w-52pf-9qhf
-  -  CVE: GHSA-mv6w-52pf-9qhf
-- Tolgee https://github.com/tolgee/tolgee-platform/security/advisories/GHSA-gx3w-rwh5-w5cg
-  -  CVE: GHSA-gx3w-rwh5-w5cg
 - Huntr.dev - Top 3 (2023-8)
 
