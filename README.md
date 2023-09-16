@@ -30,6 +30,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - GHSA-6c37-r62q-7xf4 - freeCodeCamp
 - GHSA-mv6w-52pf-9qhf - Novu
 - GHSA-gx3w-rwh5-w5cg - Tolgee
+  - CVE-2023-41316
 
 # Other
 - CircleCI (security swag)
