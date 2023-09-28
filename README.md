@@ -26,6 +26,10 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Weblate
 - Cloudflare
 
+# Hall of Thanks - huntr platform (Advisory Credited)
+- Aptabase
+- Vrite
+
 # CVEs
 - GHSA-6c37-r62q-7xf4 - freeCodeCamp
 - GHSA-mv6w-52pf-9qhf - Novu
