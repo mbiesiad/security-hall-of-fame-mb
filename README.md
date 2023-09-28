@@ -13,6 +13,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
 - DEV.TO / Forem https://dev.to/page/security
 - Checkpoint https://www.checkpoint.com/white-hat/
+- Transifex https://www.transifex.com/legal/security/
 
 # Hall of Honors
 - Philips https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
