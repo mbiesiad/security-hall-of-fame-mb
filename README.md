@@ -21,15 +21,19 @@ Selected achievements - security. ✨ I am glad I could help. 🎉
 # Honorable Mentions
 - Google https://bughunters.google.com/leaderboard/honorable-mentions
 
-# Hall of Thanks - h1 platform
+# Hall of Thanks - H1 platform
 - Brave
 - Quora
 - Weblate
 - Cloudflare
 
-# Hall of Thanks - huntr platform (Advisory Credited)
+# Hall of Thanks - Huntr platform (Advisory Credited)
 - Aptabase
 - Vrite
+
+# Hall of Fame - Bugcrowd platform
+- Office of Personnel Management - Vulnerability Disclosure Program https://bugcrowd.com/opm-vdp/hall-of-fame
+- Victoria's Secret - VDP Pro https://bugcrowd.com/victoriassecret-vdp/hall-of-fame
 
 # CVEs
 - GHSA-6c37-r62q-7xf4 - freeCodeCamp
