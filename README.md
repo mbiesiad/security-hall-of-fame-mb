@@ -1,5 +1,5 @@
 # hall-of-thanks-mb
-Selected achievements - security. ✨ I am glad I could help. 🎉
+Selected achievements - security. ✨ I am glad I could help. 🎉 (only public or similar)
 
 # Hall of Fame
 - Visma https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
