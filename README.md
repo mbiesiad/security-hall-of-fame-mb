@@ -43,6 +43,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉 (only public 
 - GHSA-gx3w-rwh5-w5cg - Tolgee
   - CVE-2023-41316
 - GHSA-xpfv-454c-3fj4 - OpenReplay
+  - CVE-2023-48226
 
 # Other
 - CircleCI (security swag)
