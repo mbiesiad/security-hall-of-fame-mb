@@ -31,6 +31,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉 (only public 
 - Aptabase
 - Vrite
 - Open edX Platform
+- Gitea
 
 # Hall of Fame - Bugcrowd platform
 - Office of Personnel Management - Vulnerability Disclosure Program https://bugcrowd.com/opm-vdp/hall-of-fame
