@@ -45,6 +45,8 @@ Selected achievements - security. ✨ I am glad I could help. 🎉 (only public 
   - CVE-2023-41316
 - GHSA-xpfv-454c-3fj4 - OpenReplay
   - CVE-2023-48226
+- GHSA-8r6h-8r68-q3pp - Hoppscotch
+  - CVE-2024-27092
 
 # Other
 - CircleCI (security swag)
