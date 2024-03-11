@@ -1,4 +1,4 @@
-# hall-of-thanks-mb
+# Hall-of-Thanks-mb
 Selected achievements - security. ✨ I am glad I could help. 🎉 (only public or similar)
 
 # Hall of Fame
