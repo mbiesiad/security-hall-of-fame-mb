@@ -15,6 +15,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉 (only public 
 - DEV.TO / Forem https://dev.to/page/security
 - Checkpoint https://www.checkpoint.com/white-hat/
 - Transifex https://www.transifex.com/legal/security/
+- Penpot https://github.com/penpot/penpot/blob/develop/THANKYOU.md
 
 # Hall of Honors
 - Philips https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
