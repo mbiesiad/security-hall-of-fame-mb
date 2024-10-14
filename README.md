@@ -53,7 +53,7 @@ Selected achievements - security. ✨ I am glad I could help. 🎉 (only public 
 - GHSA-r3jq-4r5c-j9hp - Taipy
   - CVE-2024-47833
 
-# Other & Fixed reported by me security issues
+# Other
 - CircleCI (security swag)
 - Signify
 - Huntr.dev - Top 3 (2023-8)
