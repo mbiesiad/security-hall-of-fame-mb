@@ -53,10 +53,11 @@ Selected achievements - security. ✨ I am glad I could help. 🎉 (only public 
 - GHSA-r3jq-4r5c-j9hp - Taipy
   - CVE-2024-47833
 
-# Other
+# Other & Fixed reported by me security issues
 - CircleCI (security swag)
 - Signify
 - Huntr.dev - Top 3 (2023-8)
 - Substack
+- Odoo
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
 
