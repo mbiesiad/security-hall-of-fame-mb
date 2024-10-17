@@ -59,5 +59,6 @@ Selected achievements - security. ✨ I am glad I could help. 🎉 (only public 
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
+- Formbricks
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
 
