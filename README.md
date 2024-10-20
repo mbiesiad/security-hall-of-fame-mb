@@ -60,5 +60,6 @@
 - Substack
 - Odoo
 - Formbricks
+- The Wikimedia Foundation (WMF)
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
 
