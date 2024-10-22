@@ -10,6 +10,7 @@
 - freeCodeCamp https://contribute.freecodecamp.org/#/security-hall-of-fame
 - Sword Health https://swordhealth.com/security/hall-of-fame
 - Paddle https://www.paddle.com/security/acknowledgments
+- Wikimedia https://security.wikimedia.org/hall-of-fame/
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
