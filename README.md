@@ -18,6 +18,7 @@
 - Checkpoint https://www.checkpoint.com/white-hat/
 - Transifex https://www.transifex.com/legal/security/
 - Penpot https://github.com/penpot/penpot/blob/develop/THANKYOU.md
+- Formbricks https://github.com/formbricks/formbricks/releases/tag/v1.0.3
 
 # Hall of Honors
 - Philips https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
@@ -61,7 +62,5 @@
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
-- Formbricks
-- The Wikimedia Foundation (WMF)
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
 
