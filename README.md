@@ -59,6 +59,7 @@
 # Other
 - CircleCI (security swag)
 - Signify
+- Chess24
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
