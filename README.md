@@ -56,10 +56,11 @@
 - GHSA-r3jq-4r5c-j9hp - Taipy
   - CVE-2024-47833
 
-# Other
+# Other - also improved security
 - CircleCI (security swag)
 - Signify
 - Chess24
+- ING
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
