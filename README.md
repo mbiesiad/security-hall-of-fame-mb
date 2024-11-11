@@ -61,6 +61,9 @@
 - Signify
 - Chess24
 - ING
+- Jamf
+- Comarch
+- Michelin
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
