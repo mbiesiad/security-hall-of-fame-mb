@@ -64,6 +64,7 @@
 - Jamf
 - Comarch
 - Michelin
+- Syncfusion
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
