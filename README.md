@@ -65,6 +65,7 @@
 - Comarch
 - Michelin
 - Syncfusion
+- Pretalx
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
