@@ -69,5 +69,6 @@
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
+- NeuRA 
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
 
