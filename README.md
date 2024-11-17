@@ -69,6 +69,7 @@
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
+- Plausible
 - NeuRA
 
 and maaaaaaaaaaaaany more!
