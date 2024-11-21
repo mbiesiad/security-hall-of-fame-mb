@@ -66,6 +66,7 @@
 - Michelin
 - Syncfusion
 - Pretalx
+- Umbraco HQ
 - Huntr.dev - Top 3 (2023-8)
 - Substack
 - Odoo
