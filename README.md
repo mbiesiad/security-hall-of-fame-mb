@@ -72,6 +72,7 @@
 - Odoo
 - Plausible
 - NeuRA
+- Sololearn
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
