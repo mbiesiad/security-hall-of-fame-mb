@@ -73,6 +73,7 @@
 - Plausible
 - NeuRA
 - Sololearn
+- SuperOps
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
