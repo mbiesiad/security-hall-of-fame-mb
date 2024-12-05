@@ -34,6 +34,7 @@
 - Quora
 - Weblate
 - Cloudflare
+- Liverpool Victoria
 
 # Hall of Thanks - Huntr platform (Advisory Credited)
 - Aptabase
