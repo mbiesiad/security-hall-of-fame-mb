@@ -77,6 +77,7 @@
 - NeuRA
 - Sololearn
 - Samsung
+- CERN
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
