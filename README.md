@@ -12,6 +12,7 @@
 - Paddle https://www.paddle.com/security/acknowledgments
 - Wikimedia https://security.wikimedia.org/hall-of-fame/
 - SuperOps https://superops.com/security/responsible-disclosure
+- Michelin https://cert.michelin.com/halloffame
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -67,7 +68,6 @@
 - ING
 - Jamf
 - Comarch
-- Michelin
 - Syncfusion
 - Pretalx
 - Huntr.dev - Top 3 (2023-8)
