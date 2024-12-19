@@ -81,3 +81,4 @@
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
 
+_Disclaimer: I don't take responsibility of invalid links (as at this moment 404 error with BugCrowd 24-12-19), but if you know OSINT and played CTFs, you know how to search._
