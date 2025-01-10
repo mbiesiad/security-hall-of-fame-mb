@@ -79,6 +79,7 @@
 - Samsung
 - TinyMCE
 - World Health Organization
+- Australian Cricket
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
