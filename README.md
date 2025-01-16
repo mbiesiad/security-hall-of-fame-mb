@@ -84,6 +84,7 @@
 - inlang com
 - Issuu
 - Amazon Web Services (AWS)
+- Vivaldi
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
