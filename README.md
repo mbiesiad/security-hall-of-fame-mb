@@ -13,6 +13,7 @@
 - Wikimedia https://security.wikimedia.org/hall-of-fame/
 - SuperOps https://superops.com/security/responsible-disclosure
 - Michelin https://cert.michelin.com/halloffame
+- NeuRA https://neura.edu.au/hall-of-fame.html
 - FH Münster https://www.fh-muenster.de/de/informationssicherheit/fhms-cert/hall-of-fame
 
 # Hall of Thanks
@@ -75,7 +76,6 @@
 - Substack
 - Odoo
 - Plausible
-- NeuRA
 - Sololearn
 - Samsung
 - TinyMCE
