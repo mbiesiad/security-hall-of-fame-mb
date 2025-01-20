@@ -87,6 +87,7 @@
 - Vivaldi
 - SuperTokens
 - meteor com
+- Hasura
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
