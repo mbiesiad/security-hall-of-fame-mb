@@ -15,6 +15,7 @@
 - Michelin https://cert.michelin.com/halloffame
 - NeuRA https://neura.edu.au/hall-of-fame.html
 - FH Münster https://www.fh-muenster.de/de/informationssicherheit/fhms-cert/hall-of-fame
+- U.S. Department of Health and Human Services https://hhs.responsibledisclosure.com/hc/en-us/articles/1500000280921-Acknowledgments
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
