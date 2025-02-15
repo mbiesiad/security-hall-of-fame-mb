@@ -50,9 +50,9 @@
 - Gitea
 
 # Hall of Fame - Bugcrowd platform
-- Office of Personnel Management - Vulnerability Disclosure Program https://bugcrowd.com/opm-vdp/hall-of-fame
-- Victoria's Secret - VDP Pro https://bugcrowd.com/victoriassecret-vdp/hall-of-fame
-- National Aeronautics and Space Administration (NASA) - Vulnerability Disclosure Program - https://bugcrowd.com/nasa-vdp/hall-of-fame
+- Office of Personnel Management - Vulnerability Disclosure Program [https://bugcrowd.com/opm-vdp/hall-of-fame](https://bugcrowd.com/engagements/opm-vdp/hall_of_fames)
+- Victoria's Secret - VDP Pro [https://bugcrowd.com/victoriassecret-vdp/hall-of-fame](https://bugcrowd.com/engagements/victoriassecret-vdp/hall_of_fames)
+- National Aeronautics and Space Administration (NASA) - Vulnerability Disclosure Program - [https://bugcrowd.com/nasa-vdp/hall-of-fame](https://bugcrowd.com/engagements/nasa-vdp/hall_of_fames)
 
 # CVEs
 - GHSA-6c37-r62q-7xf4 - freeCodeCamp
