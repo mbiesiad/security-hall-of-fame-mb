@@ -5,7 +5,7 @@
 - Visma https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
 - Mercedes-Benz https://www.mercedes-benz.com/en/whitehat/
 - Robocorp [https://robocorp.com/.well-known/security-hall-of-fame.html](https://web.archive.org/web/20230405165847/https://robocorp.com/.well-known/security-hall-of-fame.html)
-- Hopin https://hopin.com/hopin-events/security/hall-of-fame
+- Hopin [https://hopin.com/hopin-events/security/hall-of-fame](https://web.archive.org/web/20230315114211/https://hopin.com/hopin-events/security/hall-of-fame)
 - Mozilla https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/
 - freeCodeCamp https://contribute.freecodecamp.org/#/security-hall-of-fame
 - Sword Health https://swordhealth.com/security/hall-of-fame
