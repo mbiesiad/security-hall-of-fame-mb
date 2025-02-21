@@ -90,6 +90,8 @@
 - SuperTokens
 - meteor com
 - Hasura
+- BASF
+- CERT-EU
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
