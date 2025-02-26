@@ -29,6 +29,7 @@
 - Formbricks https://github.com/formbricks/formbricks/releases/tag/v1.0.3
 - Umbraco HQ https://umbraco.com/trust-center/security-and-umbraco/how-to-report-a-vulnerability-in-umbraco/list-of-security-contributors
 - NVIDIA https://www.nvidia.com/en-us/security/acknowledgements/
+- cricket.com.au https://www.cricket.com.au/vulnerability-disclosure-program/
 
 # Hall of Honors
 - Philips https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
