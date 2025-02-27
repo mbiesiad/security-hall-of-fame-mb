@@ -96,6 +96,7 @@
 - Crunchbase
 - Salesforce
 - Honeywell
+- Erasmus University Rotterdam
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
