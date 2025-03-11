@@ -85,7 +85,6 @@
 - Sololearn
 - Samsung
 - TinyMCE
-- Australian Cricket
 - inlang com
 - Issuu
 - Amazon Web Services (AWS)
