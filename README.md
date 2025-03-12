@@ -19,6 +19,7 @@
 - World Health Organization https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list
 - Drexel University https://drexel.edu/it/security/services-processes/bug-bounty/ (+ CISO Letter of Appreciation)
 - Substack https://substack.com/hall-of-fame
+- Signify https://www.signify.com/global/product-security/coordinated-vulnerability-disclosure/hall-of-fame
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -72,7 +73,6 @@
 
 # Other - also improved security
 - CircleCI (security swag)
-- Signify
 - Chess24
 - ING
 - Jamf
