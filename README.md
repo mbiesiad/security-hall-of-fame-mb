@@ -99,7 +99,8 @@
 - Erasmus University Rotterdam
 - Chromium
 - EnBW
-- Intel 
+- Intel
+- Siemens 
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
