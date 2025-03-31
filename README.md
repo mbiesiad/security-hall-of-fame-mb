@@ -105,6 +105,7 @@
 - Carrefour
 - Olark
 - Phenom
+- Pulumi 
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
