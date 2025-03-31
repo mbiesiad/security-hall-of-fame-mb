@@ -21,6 +21,7 @@
 - Substack https://substack.com/hall-of-fame
 - Signify https://www.signify.com/global/product-security/coordinated-vulnerability-disclosure/hall-of-fame
 - Bosch https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html
+- GEA https://www.gea.com/en/company/about-us/information-security/products/responsible-disclosure-of-security-issues/hall-of-fame/
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
