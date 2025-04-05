@@ -74,6 +74,7 @@
   - CVE-2024-47833
 
 # CWE by MITRE - Contributions and Submissions
+- [CWE 4.17](https://cwe.mitre.org/news/archives/news2025.html#april03_CWE_Version_4_17_Now_Available)
 
 # Other - also improved security
 - CircleCI (security swag)
