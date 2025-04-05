@@ -73,6 +73,8 @@
 - GHSA-r3jq-4r5c-j9hp - Taipy
   - CVE-2024-47833
 
+# CWE by MITRE - Contributions and Submissions
+
 # Other - also improved security
 - CircleCI (security swag)
 - Chess24
@@ -108,4 +110,4 @@
 - Pulumi 
 
 and maaaaaaaaaaaaany more!
-- Selected CTF Writeups: [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
+- Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
