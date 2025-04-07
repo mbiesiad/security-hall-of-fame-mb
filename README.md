@@ -107,7 +107,7 @@
 - Intel
 - Siemens
 - Carrefour
-- Olark
+- Olark (security swag)
 - Phenom
 - Pulumi 
 
