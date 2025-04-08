@@ -37,7 +37,8 @@
 - Honeywell https://www.honeywell.com/us/en/product-security#acknowledgments
 
 # Hall of Honors
-- Philips https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
+- Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
+  - Philips (2024 and prior HOH archive) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html#slide_#
 
 # Honorable Mentions
 - Google https://bughunters.google.com/leaderboard/honorable-mentions
