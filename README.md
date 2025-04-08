@@ -109,6 +109,7 @@
 - Carrefour
 - Olark (security swag)
 - Phenom
+- CERN
 - Pulumi 
 
 and maaaaaaaaaaaaany more!
