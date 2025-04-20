@@ -35,6 +35,7 @@
 - Australian Cricket https://www.cricket.com.au/vulnerability-disclosure-program/
 - BASF https://www.basf.com/global/en/legal/responsible-disclosure-statement
 - Honeywell https://www.honeywell.com/us/en/product-security#acknowledgments
+- Berlin.de https://www.berlin.de/wir-ueber-uns/7470384-4219174-danksagungen.html
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
