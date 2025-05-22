@@ -81,6 +81,11 @@
 - [CWE 4.17](https://cwe.mitre.org/news/archives/news2025.html#april03_CWE_Version_4_17_Now_Available)
   - CWE-1428: Reliance on HTTP instead of HTTPS - https://cwe.mitre.org/data/definitions/1428.html
 
+# Other achievements
+- Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
+- Ranked Top 3 (including #1) on the HackerOne Poland Leaderboard (Apr & May 2025)
+- Ranked Top 3 in Poland on the Google Bug Hunters Honorable Mentions Leaderboard (Apr 2025)
+
 # Other - also improved security
 - CircleCI (security swag)
 - Chess24
@@ -89,7 +94,6 @@
 - Comarch
 - Syncfusion
 - Pretalx
-- Huntr.dev - Top 3 (2023-8)
 - Odoo
 - Plausible
 - Sololearn
