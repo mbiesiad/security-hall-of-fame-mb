@@ -52,6 +52,7 @@
 - Weblate
 - Cloudflare
 - Liverpool Victoria
+- Nextcloud
 
 # Hall of Thanks - Huntr platform (Advisory Credited)
 - Aptabase
