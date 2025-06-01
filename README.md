@@ -65,6 +65,9 @@
 - Victoria's Secret - VDP Pro [https://bugcrowd.com/victoriassecret-vdp/hall-of-fame](https://bugcrowd.com/engagements/victoriassecret-vdp/hall_of_fames)
 - National Aeronautics and Space Administration (NASA) - Vulnerability Disclosure Program - [https://bugcrowd.com/nasa-vdp/hall-of-fame](https://bugcrowd.com/engagements/nasa-vdp/hall_of_fames)
 
+# Hall of Fame - YWH platform
+- OVHcloud
+
 # CVEs
 - GHSA-6c37-r62q-7xf4 - freeCodeCamp
 - GHSA-mv6w-52pf-9qhf - Novu
