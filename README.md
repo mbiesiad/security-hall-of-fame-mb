@@ -53,6 +53,7 @@
 - Cloudflare
 - Liverpool Victoria
 - Nextcloud
+- Informatica
 
 # Hall of Thanks - Huntr platform (Advisory Credited)
 - Aptabase
