@@ -81,7 +81,7 @@
 - GHSA-g78w-95q9-v739 - OpenOLAT
 - GHSA-r3jq-4r5c-j9hp - Taipy
   - CVE-2024-47833
-- GHSA-w8vm-jx29-52fr
+- GHSA-w8vm-jx29-52fr - Novu
 
 # CWE by MITRE - Contributions and Submissions
 - [CWE 4.17](https://cwe.mitre.org/news/archives/news2025.html#april03_CWE_Version_4_17_Now_Available)
