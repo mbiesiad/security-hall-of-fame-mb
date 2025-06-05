@@ -54,6 +54,7 @@
 - Liverpool Victoria
 - Nextcloud
 - Informatica
+- Shopify
 
 # Hall of Thanks - Huntr platform (Advisory Credited)
 - Aptabase
