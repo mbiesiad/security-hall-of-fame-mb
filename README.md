@@ -38,6 +38,7 @@
 - Honeywell https://www.honeywell.com/us/en/product-security#acknowledgments
 - Berlin.de https://www.berlin.de/wir-ueber-uns/7470384-4219174-danksagungen.html
 - CERN https://security.web.cern.ch/home/en/kudos.shtml
+- Pretalx https://pretalx.com/p/news/releasing-pretalx-2025-1-0/
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
@@ -100,7 +101,6 @@
 - Jamf
 - Comarch
 - Syncfusion
-- Pretalx
 - Odoo
 - Plausible
 - Sololearn
