@@ -39,6 +39,7 @@
 - Berlin.de https://www.berlin.de/wir-ueber-uns/7470384-4219174-danksagungen.html
 - CERN https://security.web.cern.ch/home/en/kudos.shtml
 - Pretalx https://pretalx.com/p/news/releasing-pretalx-2025-1-0/
+- Siemens https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
@@ -120,7 +121,6 @@
 - Chromium
 - EnBW
 - Intel
-- Siemens
 - Carrefour
 - Olark (security swag)
 - Phenom
