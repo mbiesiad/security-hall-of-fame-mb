@@ -57,7 +57,9 @@
 - Nextcloud
 - Informatica
 - Shopify
-
+  
+... and that's not even all.
+  
 # Hall of Thanks - Huntr platform (Advisory Credited)
 - Aptabase
 - Vrite
