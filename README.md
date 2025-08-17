@@ -126,7 +126,8 @@
 - Intel
 - Carrefour
 - Olark (security swag)
-- Pulumi 
+- Pulumi
+- BMW
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
