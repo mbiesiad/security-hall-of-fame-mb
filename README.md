@@ -24,6 +24,7 @@
 - GEA https://www.gea.com/en/company/about-us/information-security/products/responsible-disclosure-of-security-issues/hall-of-fame/
 - Bundesamt für Sicherheit in der Informationstechnik - BSI https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/Hall_of_Fame/Hall_of_Fame_node.html
 - Phenom https://www.phenom.com/hall_of_fame
+- Carrefour https://www.carrefour.com/.well-known/hall-of-fame.txt
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -124,7 +125,6 @@
 - Chromium
 - EnBW
 - Intel
-- Carrefour
 - Olark (security swag)
 - Pulumi
 - BMW
