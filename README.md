@@ -24,7 +24,7 @@
 - GEA https://www.gea.com/en/company/about-us/information-security/products/responsible-disclosure-of-security-issues/hall-of-fame/
 - Bundesamt für Sicherheit in der Informationstechnik - BSI https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/Hall_of_Fame/Hall_of_Fame_node.html
 - Phenom https://www.phenom.com/hall_of_fame
-- Carrefour https://www.carrefour.com/.well-known/hall-of-fame.txt
+- Carrefour https://www.carrefour.com/.well-known/hall-of-fame.txt (Michalk)
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -34,7 +34,7 @@
 - Penpot https://github.com/penpot/penpot/blob/develop/THANKYOU.md
 - Formbricks https://github.com/formbricks/formbricks/releases/tag/v1.0.3
 - Umbraco HQ https://umbraco.com/trust-center/security-and-umbraco/how-to-report-a-vulnerability-in-umbraco/list-of-security-contributors
-- NVIDIA https://www.nvidia.com/en-us/security/acknowledgements/
+- NVIDIA https://www.nvidia.com/en-us/security/acknowledgements/ (Michalk)
 - Australian Cricket https://www.cricket.com.au/vulnerability-disclosure-program/
 - BASF https://www.basf.com/global/en/legal/responsible-disclosure-statement
 - Honeywell https://www.honeywell.com/us/en/product-security#acknowledgments
