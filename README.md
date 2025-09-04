@@ -10,7 +10,7 @@
 - freeCodeCamp https://contribute.freecodecamp.org/#/security-hall-of-fame
 - Sword Health https://swordhealth.com/security/hall-of-fame
 - Paddle https://www.paddle.com/security/acknowledgments
-- Wikimedia https://security.wikimedia.org/hall-of-fame/
+- Wikimedia https://security.wikimedia.org/hall-of-fame/ (Mic1337bie)
 - SuperOps https://superops.com/security/responsible-disclosure
 - Michelin https://cert.michelin.com/halloffame
 - NeuRA https://neura.edu.au/hall-of-fame.html
