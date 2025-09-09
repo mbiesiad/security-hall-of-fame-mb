@@ -59,6 +59,7 @@
 - Nextcloud
 - Informatica
 - Shopify
+- Chainlink
   
 ... and that's not even all.
   
