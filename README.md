@@ -94,6 +94,7 @@
 # CWE by MITRE - Contributions and Submissions
 - [CWE 4.17](https://cwe.mitre.org/news/archives/news2025.html#april03_CWE_Version_4_17_Now_Available)
   - CWE-1428: Reliance on HTTP instead of HTTPS - https://cwe.mitre.org/data/definitions/1428.html
+- [CWE 4.18](https://cwe.mitre.org/news/archives/news2025.html#september09_CWE_Version_4_18_Now_Available)
 
 # Other achievements
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
