@@ -25,6 +25,7 @@
 - Bundesamt für Sicherheit in der Informationstechnik - BSI https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/Hall_of_Fame/Hall_of_Fame_node.html
 - Phenom https://www.phenom.com/hall_of_fame
 - Carrefour https://www.carrefour.com/.well-known/hall-of-fame.txt (Michalk)
+- StatusGator https://statusgator.com/blog/bug-bounty-hall-of-fame
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
