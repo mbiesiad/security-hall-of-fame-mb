@@ -26,6 +26,7 @@
 - Phenom https://www.phenom.com/hall_of_fame
 - Carrefour https://www.carrefour.com/.well-known/hall-of-fame.txt (Michalk)
 - StatusGator https://statusgator.com/blog/bug-bounty-hall-of-fame
+- Anthology https://www.anthology.com/trust-center/security-hall-of-fame
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -134,7 +135,6 @@
 - BMW
 - NTHW Not The Hidden Wiki (Hall Of Fame List + Top 3 Contributors) https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md
 - The University of Nebraska System
-- Anthology
 - SMSEagle
 - Thales
 
