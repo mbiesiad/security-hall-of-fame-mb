@@ -70,7 +70,8 @@
 - Vrite
 - Open edX Platform
 - Gitea
-- Gogs 
+- Gogs
+- Appwrite 
 
 # Hall of Fame - Bugcrowd platform
 - Office of Personnel Management - Vulnerability Disclosure Program [https://bugcrowd.com/opm-vdp/hall-of-fame](https://bugcrowd.com/engagements/opm-vdp/hall_of_fames)
