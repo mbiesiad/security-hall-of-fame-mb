@@ -105,6 +105,7 @@
 - OWASP Community Pages (www-community)
   - Attacks:
     - Content Spoofing: https://owasp.org/www-community/attacks/Content_Spoofing
+- OWASP Cheat Sheet Series
 
 # Other achievements
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
