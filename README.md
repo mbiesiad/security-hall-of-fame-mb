@@ -102,6 +102,9 @@
   - CWE-601: URL Redirection to Untrusted Site ('Open Redirect') - https://cwe.mitre.org/data/definitions/601.html
  
 # OWASP: My Submissions and Contributions
+- OWASP Community Pages (www-community)
+  - Attacks:
+    - Content Spoofing: https://owasp.org/www-community/attacks/Content_Spoofing
 
 # Other achievements
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
