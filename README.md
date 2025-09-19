@@ -106,6 +106,7 @@
   - Attacks:
     - Content Spoofing: https://owasp.org/www-community/attacks/Content_Spoofing
 - OWASP Cheat Sheet Series
+- OWASP WSTG - v4.1 (www-project-web-security-testing-guide)
 
 # Other achievements
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
