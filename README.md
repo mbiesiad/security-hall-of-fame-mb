@@ -105,6 +105,7 @@
 - OWASP Community Pages (www-community)
   - Attacks:
     - Content Spoofing: https://owasp.org/www-community/attacks/Content_Spoofing
+    - HTTP/2 Reset Attack: https://owasp.org/www-community/attacks/HTTP2_Reset_Attack
 - OWASP Cheat Sheet Series
 - OWASP WSTG - v4.1 (www-project-web-security-testing-guide)
 
