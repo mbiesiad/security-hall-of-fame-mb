@@ -95,6 +95,8 @@
   - CVE-2024-47833
 - GHSA-w8vm-jx29-52fr - Novu
 
+Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
+
 # CWE™ (by MITRE): My Submissions and Contributions
 - [CWE 4.17](https://cwe.mitre.org/news/archives/news2025.html#april03_CWE_Version_4_17_Now_Available)
   - CWE-1428: Reliance on HTTP instead of HTTPS - https://cwe.mitre.org/data/definitions/1428.html
