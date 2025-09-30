@@ -95,6 +95,7 @@
   - CVE-2024-47833
 - GHSA-w8vm-jx29-52fr - Novu
 - GHSA-3xhv-r4gx-xw99 - Weblate
+  - CVE-2025-61587
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
