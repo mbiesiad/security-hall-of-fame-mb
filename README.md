@@ -94,6 +94,7 @@
 - GHSA-r3jq-4r5c-j9hp - Taipy
   - CVE-2024-47833
 - GHSA-w8vm-jx29-52fr - Novu
+- GHSA-3xhv-r4gx-xw99 - Weblate
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
