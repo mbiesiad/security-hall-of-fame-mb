@@ -110,6 +110,8 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
   - Attacks:
     - Content Spoofing: https://owasp.org/www-community/attacks/Content_Spoofing
     - HTTP/2 Reset Attack: https://owasp.org/www-community/attacks/HTTP2_Reset_Attack
+  - Vulnerabilities:
+    - Information exposure through query strings in URL: https://owasp.org/www-community/vulnerabilities/Information_exposure_through_query_strings_in_url 
 - OWASP Cheat Sheet Series
 - OWASP WSTG - v4.1 (www-project-web-security-testing-guide)
 
