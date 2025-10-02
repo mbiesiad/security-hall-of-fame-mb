@@ -27,6 +27,7 @@
 - Carrefour https://www.carrefour.com/.well-known/hall-of-fame.txt (Michalk)
 - StatusGator https://statusgator.com/blog/bug-bounty-hall-of-fame
 - Anthology https://www.anthology.com/trust-center/security-hall-of-fame
+- Process Street https://www.process.st/responsible-disclosure/
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
