@@ -114,6 +114,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
     - Information exposure through query strings in URL: https://owasp.org/www-community/vulnerabilities/Information_exposure_through_query_strings_in_url 
 - OWASP Cheat Sheet Series
 - OWASP WSTG - v4.1 (www-project-web-security-testing-guide)
+- OWASP www-project-juice-shop
 
 # Other achievements
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
