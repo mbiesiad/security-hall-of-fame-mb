@@ -121,6 +121,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
 - Ranked Top 3 (including #1) on the HackerOne Poland Leaderboard (Apr & May 2025)
 - Ranked Top 3 in Poland on the Google Bug Hunters Honorable Mentions Leaderboard (Apr 2025)
+- Listed among the Top GitHub contributors in Poland (Oct 2025)
 
 # Other - also improved security
 - CircleCI (security swag)
