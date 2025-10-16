@@ -158,6 +158,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - Thales
 - Bayer
 - Holopin
+- Microsoft 
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
