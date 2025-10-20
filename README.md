@@ -161,6 +161,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - Holopin
 - Microsoft
 - Pescheck
+- Meta Security
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
