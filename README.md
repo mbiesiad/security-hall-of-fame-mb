@@ -164,7 +164,8 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - Microsoft
 - Meta Security
 - ASSA ABLOY
-- Danfoss 
+- Danfoss
+- TrustSource
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
