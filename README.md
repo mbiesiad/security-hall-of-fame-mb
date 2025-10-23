@@ -166,6 +166,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - ASSA ABLOY
 - Danfoss
 - TrustSource
+- Wingify 
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
