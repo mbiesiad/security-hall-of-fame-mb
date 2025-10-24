@@ -29,6 +29,7 @@
 - Anthology https://www.anthology.com/trust-center/security-hall-of-fame
 - Process Street https://www.process.st/responsible-disclosure/
 - Pescheck https://pescheck.io/responsible-disclosure-hall-of-fame/
+- TrustSource https://www.trustsource.io/en/hof/
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -165,7 +166,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - Meta Security
 - ASSA ABLOY
 - Danfoss
-- TrustSource
 - Wingify 
 
 and maaaaaaaaaaaaany more!
