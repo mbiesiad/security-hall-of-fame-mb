@@ -166,7 +166,8 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - Meta Security
 - ASSA ABLOY
 - Danfoss
-- Wingify 
+- Wingify
+- Miele
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
