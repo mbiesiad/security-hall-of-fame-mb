@@ -110,7 +110,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
   - CWE-601: URL Redirection to Untrusted Site ('Open Redirect') - https://cwe.mitre.org/data/definitions/601.html
  
 # ATT&CK™ (by MITRE): My Submissions and Contributions
-
+- Contributors List: https://attack.mitre.org/resources/engage-with-attack/contribute/
  
 # OWASP: My Submissions and Contributions
 - OWASP Community Pages (www-community)
