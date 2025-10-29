@@ -30,6 +30,7 @@
 - Process Street https://www.process.st/responsible-disclosure/
 - Pescheck https://pescheck.io/responsible-disclosure-hall-of-fame/
 - TrustSource https://www.trustsource.io/en/hof/
+- Technische Universitat Braunschweig https://www.tu-braunschweig.de/en/ciso/cert/responsible-disclosure/hall-of-fame
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -175,7 +176,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - Danfoss
 - Wingify
 - Miele
-- Technische Universitat Braunschweig
 - 2degrees 
 
 and maaaaaaaaaaaaany more!
