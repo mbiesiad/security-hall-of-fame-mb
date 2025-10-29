@@ -85,6 +85,7 @@
 - OVHcloud
 
 # CVEs
+Vulnerability Research - **the public known** CVEs I found.
 - GHSA-6c37-r62q-7xf4 - freeCodeCamp
 - GHSA-mv6w-52pf-9qhf - Novu
 - GHSA-gx3w-rwh5-w5cg - Tolgee
