@@ -113,7 +113,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 # ATT&CK™ (by MITRE): My Submissions and Contributions
 - Contributors List: https://attack.mitre.org/resources/engage-with-attack/contribute/
 - v18.0 Website: https://attack.mitre.org/versions/v18
-  - Release Notes (credited): https://attack.mitre.org/resources/updates/updates-october-2025/
+  - Release Notes (credited): https://attack.mitre.org/resources/updates/updates-october-2025/#contributors-to-this-release
     - T1592.002 Gather Victim Host Information: Software https://attack.mitre.org/versions/v18/techniques/T1592/002/
  
 # OWASP: My Submissions and Contributions
