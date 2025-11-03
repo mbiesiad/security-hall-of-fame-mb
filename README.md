@@ -1,6 +1,22 @@
 # Hall-of-Thanks-mb
 **Selected** achievements - IT/Cyber security. ✨ I am glad I could help. 🎉 (only **public** or similar)
 
+# TOC - Table of contents
+1. [Hall of Fame](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-fame)
+2. [Hall of Thanks](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-thanks)
+3. [Hall of Honors](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-honors)
+4. [Honorable Mentions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#honorable-mentions)
+5. [Hall of Thanks - H1 platform](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-thanks---h1-platform)
+6. [Hall of Thanks - Huntr platform (Advisory Credited)](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-thanks---huntr-platform-advisory-credited)
+7. [Hall of Fame - Bugcrowd platform](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-fame---bugcrowd-platform)
+8. [Hall of Fame - YWH platform](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-fame---ywh-platform)
+9. [CVEs](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#cves)
+10. [CWE™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#cwe-by-mitre-my-submissions-and-contributions)
+11. [ATT&CK™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#attck-by-mitre-my-submissions-and-contributions)
+12. [OWASP: My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#owasp-my-submissions-and-contributions)
+13. [Other achievements](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other-achievements)
+14. [Other - also improved security](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other---also-improved-security)
+
 # Hall of Fame
 - Visma https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
 - Mercedes-Benz https://www.mercedes-benz.com/en/whitehat/
