@@ -57,7 +57,8 @@
 - Penpot https://github.com/penpot/penpot/blob/develop/THANKYOU.md
 - Formbricks https://github.com/formbricks/formbricks/releases/tag/v1.0.3
 - Umbraco HQ https://umbraco.com/trust-center/security-and-umbraco/how-to-report-a-vulnerability-in-umbraco/list-of-security-contributors
-- NVIDIA https://www.nvidia.com/en-us/security/acknowledgements/ (Michalk)
+- NVIDIA https://www.nvidia.com/en-us/security/acknowledgements/ (2025)
+  - NVIDIA https://www.nvidia.com/en-us/security/acknowledgements/ (2024: Michalk)
 - Australian Cricket https://www.cricket.com.au/vulnerability-disclosure-program/
 - BASF https://www.basf.com/global/en/legal/responsible-disclosure-statement
 - Honeywell https://www.honeywell.com/us/en/product-security#acknowledgments
