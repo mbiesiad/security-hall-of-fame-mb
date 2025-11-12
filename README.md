@@ -120,6 +120,7 @@ Vulnerability Research - **the public known** CVEs I found.
 - GHSA-3xhv-r4gx-xw99 - Weblate
   - CVE-2025-61587
 - GHSA-cf57-c578-7jvv - Anubis
+  - CVE-2025-64716
 - CVE-2025-61514 - CoCalc 
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
