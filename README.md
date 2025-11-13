@@ -121,7 +121,8 @@ Vulnerability Research - **the public known** CVEs I found.
   - CVE-2025-61587
 - GHSA-cf57-c578-7jvv - Anubis
   - CVE-2025-64716
-- CVE-2025-61514 - CoCalc 
+- CVE-2025-61514 - CoCalc
+- GHSA-x39m-3393-3qp4 - FlowiseAI
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
