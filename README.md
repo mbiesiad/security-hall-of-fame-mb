@@ -123,6 +123,7 @@ Vulnerability Research - **the public known** CVEs I found.
   - CVE-2025-64716
 - CVE-2025-61514 - CoCalc
 - GHSA-x39m-3393-3qp4 - FlowiseAI
+- GHSA-fjh6-8679-9pch - FlowiseAI
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
