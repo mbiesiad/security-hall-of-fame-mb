@@ -151,6 +151,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - OWASP Cheat Sheet Series
 - OWASP WSTG - v4.1 (www-project-web-security-testing-guide)
 - OWASP www-project-juice-shop
+- Recognized as a listed member of OWASP Nest
 
 # Other achievements
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
