@@ -200,7 +200,8 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - ASSA ABLOY
 - Danfoss
 - Wingify
-- 2degrees 
+- 2degrees
+- PostHog (security swag)
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
