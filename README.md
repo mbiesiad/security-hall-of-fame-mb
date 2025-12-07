@@ -126,6 +126,8 @@ Vulnerability Research - **the public known** CVEs I found.
 - GHSA-x39m-3393-3qp4 - FlowiseAI
 - GHSA-fjh6-8679-9pch - FlowiseAI
 - GHSA-x7rp-qj2h-ghgw - FlowiseAI
+- GHSA-76gj-pmvx-jcc6 - WBCE CMS
+- GHSA-23rx-gprm-2hrh - WBCE CMS
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
