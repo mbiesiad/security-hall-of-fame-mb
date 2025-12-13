@@ -140,6 +140,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 - [CWE 4.19](https://cwe.mitre.org/news/archives/news2025.html#december11_CWE_Version_4_19_Now_Available)
   - CWE-212: Improper Removal of Sensitive Information Before Storage or Transfer - https://cwe.mitre.org/data/definitions/212.html
   - CWE-359: Exposure of Private Personal Information to an Unauthorized Actor - https://cwe.mitre.org/data/definitions/359.html
+  - CWE-1391: Use of Weak Credentials - https://cwe.mitre.org/data/definitions/1391.html
  
 # ATT&CK™ (by MITRE): My Submissions and Contributions
 - Contributors List: https://attack.mitre.org/resources/engage-with-attack/contribute/
