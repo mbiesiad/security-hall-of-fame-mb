@@ -142,6 +142,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
   - CWE-359: Exposure of Private Personal Information to an Unauthorized Actor - https://cwe.mitre.org/data/definitions/359.html
   - CWE-1391: Use of Weak Credentials - https://cwe.mitre.org/data/definitions/1391.html
   - CWE-598: Use of GET Request Method With Sensitive Query Strings - https://cwe.mitre.org/data/definitions/598.html
+    - Ultimately led to the addition of a new record to the CWE glossary - https://cwe.mitre.org/documents/glossary/index.html#Sensitive%20Information
  
 # ATT&CK™ (by MITRE): My Submissions and Contributions
 - Contributors List: https://attack.mitre.org/resources/engage-with-attack/contribute/
