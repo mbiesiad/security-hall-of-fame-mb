@@ -129,6 +129,15 @@ Vulnerability Research - **the public known** CVEs I found.
 - GHSA-76gj-pmvx-jcc6 - WBCE CMS
   - CVE-2025-67504
 - GHSA-23rx-gprm-2hrh - WBCE CMS
+- CVE-2025-67163
+- CVE-2025-67164
+- CVE-2025-67165
+- CVE-2025-67168
+- CVE-2025-67170
+- CVE-2025-67171
+- CVE-2025-67172
+- CVE-2025-67173
+- CVE-2025-67174
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
