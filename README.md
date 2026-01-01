@@ -11,11 +11,12 @@
 7. [Hall of Fame - Bugcrowd platform](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-fame---bugcrowd-platform)
 8. [Hall of Fame - YWH platform](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-fame---ywh-platform)
 9. [CVEs](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#cves)
-10. [CWE™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#cwe-by-mitre-my-submissions-and-contributions)
-11. [ATT&CK™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#attck-by-mitre-my-submissions-and-contributions)
-12. [OWASP: My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#owasp-my-submissions-and-contributions)
-13. [Other achievements](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other-achievements)
-14. [Other - also improved security](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other---also-improved-security)
+10. [Docker image disclosures](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#docker-image-disclosures)
+11. [CWE™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#cwe-by-mitre-my-submissions-and-contributions)
+12. [ATT&CK™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#attck-by-mitre-my-submissions-and-contributions)
+13. [OWASP: My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#owasp-my-submissions-and-contributions)
+14. [Other achievements](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other-achievements)
+15. [Other - also improved security](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other---also-improved-security)
 
 # Hall of Fame
 - Visma https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
@@ -140,6 +141,10 @@ Vulnerability Research - **the public known** CVEs I found.
 - CVE-2025-67174
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
+
+# Docker image disclosures
+
+Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 
 # CWE™ (by MITRE): My Submissions and Contributions
 - [CWE 4.17](https://cwe.mitre.org/news/archives/news2025.html#april03_CWE_Version_4_17_Now_Available)
