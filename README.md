@@ -140,8 +140,11 @@ Vulnerability Research - **the public known** CVEs I found.
 - CVE-2025-67173
 - CVE-2025-67174
 - GHSA-v877-x568-4v5v - Movary
+  - CVE-2026-23841
 - GHSA-pj3m-gmq8-2r57 - Movary
+  - CVE-2026-23840
 - GHSA-v32w-5qx7-p3vq - Movary
+  - CVE-2026-23839
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
