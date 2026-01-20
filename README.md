@@ -68,6 +68,7 @@
 - Pretalx https://pretalx.com/p/news/releasing-pretalx-2025-1-0/
 - Siemens https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html
 - Miele https://www.miele.com/en/com/cybersecurity-5047.htm#p5052
+- Movary https://github.com/leepeuker/movary/releases/tag/0.70.0
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
