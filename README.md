@@ -232,6 +232,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Wingify
 - 2degrees
 - PostHog (security swag)
+- Ericsson
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
