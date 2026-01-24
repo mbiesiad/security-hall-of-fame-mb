@@ -232,6 +232,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Wingify
 - 2degrees
 - PostHog (security swag)
+- Atos
 - Ericsson
 
 and maaaaaaaaaaaaany more!
