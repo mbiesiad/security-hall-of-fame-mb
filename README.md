@@ -28,7 +28,7 @@
 - Sword Health https://swordhealth.com/security/hall-of-fame
 - Paddle https://www.paddle.com/security/acknowledgments
 - Wikimedia https://security.wikimedia.org/hall-of-fame/ (Mic1337bie)
-- SuperOps https://superops.com/security/responsible-disclosure
+- SuperOps [https://superops.com/security/responsible-disclosure](https://web.archive.org/web/20251105180930/https://superops.com/security-hall-of-fame)
 - Michelin https://cert.michelin.com/halloffame
 - NeuRA https://neura.edu.au/hall-of-fame.html
 - FH Münster https://www.fh-muenster.de/de/informationssicherheit/fhms-cert/hall-of-fame
