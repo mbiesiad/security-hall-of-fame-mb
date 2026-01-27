@@ -140,6 +140,7 @@ Vulnerability Research - **the public known** CVEs I found.
 - CVE-2025-67172
 - CVE-2025-67173
 - CVE-2025-67174
+- CVE-2026-1468
 - GHSA-v877-x568-4v5v - Movary
   - CVE-2026-23841
 - GHSA-pj3m-gmq8-2r57 - Movary
