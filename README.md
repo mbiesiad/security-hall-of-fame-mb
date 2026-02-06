@@ -69,6 +69,7 @@
 - Siemens https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html
 - Miele https://www.miele.com/en/com/cybersecurity-5047.htm#p5052
 - Movary https://github.com/leepeuker/movary/releases/tag/0.70.0
+- Ericsson https://www.ericsson.com/en/about-us/security/vulnerability-reporting-form/acknowledgements
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
@@ -234,7 +235,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - 2degrees
 - PostHog (security swag)
 - Atos
-- Ericsson
 
 and maaaaaaaaaaaaany more!
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
