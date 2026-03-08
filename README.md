@@ -17,6 +17,7 @@
 13. [OWASP: My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#owasp-my-submissions-and-contributions)
 14. [Other achievements](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other-achievements)
 15. [Other - also improved security](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other---also-improved-security)
+16. [Selected Articles and CTF Writeups](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#selected-articles-and-ctf-writeups)
 
 # Hall of Fame
 - Visma https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
@@ -238,4 +239,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Atlassian
 
 and maaaaaaaaaaaaany more!
+
+# Selected Articles and CTF Writeups
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
