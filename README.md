@@ -50,6 +50,7 @@
 - TrustSource https://www.trustsource.io/en/hof/
 - Technische Universitat Braunschweig https://www.tu-braunschweig.de/en/ciso/cert/responsible-disclosure/hall-of-fame
 - EC-Council https://www.eccouncil.org/bug-bounty/hall-of-fame/ (+ Certificate of Appreciation)
+- Versuni https://www.versuni.com/security/hall-of-fame/
 
 # Hall of Thanks
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
