@@ -199,6 +199,11 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 # Contributions to Security Ecosystem
 - NTHW Not The Hidden Wiki (Hall Of Fame List + Top 3 Contributors) https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md
 - Improved GitHub Advisory Database - reported missing CWE and helped update official CWE list (issue: https://github.com/github/advisory-database/issues/6258)
+- Contributions to projects like:
+  - WhatsMyName: https://github.com/WebBreacher/WhatsMyName/pull/978 , https://github.com/WebBreacher/WhatsMyName/issues/977
+  - CTFtime (many issues)
+  - swisskyrepo/PayloadsAllTheThings , swisskyrepo/InternalAllTheThings
+  - OWASP projects
 
 # Other - also improved security
 - CircleCI (security swag)
