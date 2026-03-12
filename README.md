@@ -15,7 +15,7 @@
 11. [CWE™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#cwe-by-mitre-my-submissions-and-contributions)
 12. [ATT&CK™ (by MITRE): My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#attck-by-mitre-my-submissions-and-contributions)
 13. [OWASP: My Submissions and Contributions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#owasp-my-submissions-and-contributions)
-14. [Other achievements](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other-achievements)
+14. [Other Achievements](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other-achievements)
 15. [Contributions to Security Ecosystem](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#contributions-to-security-ecosystem)
 16. [Other - also improved security](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other---also-improved-security)
 17. [Selected Articles and CTF Writeups](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#selected-articles-and-ctf-writeups)
@@ -198,7 +198,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 
 # Contributions to Security Ecosystem
 - NTHW Not The Hidden Wiki (Hall Of Fame List + Top 3 Contributors) https://github.com/notthehiddenwiki/NTHW/blob/nthw/HoF.md
-- 
+- Improved GitHub Advisory Database - reported missing CWE and helped update official CWE list (issue: https://github.com/github/advisory-database/issues/6258)
 
 # Other - also improved security
 - CircleCI (security swag)
