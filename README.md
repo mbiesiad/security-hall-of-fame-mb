@@ -19,6 +19,7 @@
 15. [Contributions to Security Ecosystem](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#contributions-to-security-ecosystem)
 16. [Other - also improved security](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#other---also-improved-security)
 17. [Selected Articles and CTF Writeups](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#selected-articles-and-ctf-writeups)
+18. [CTF Challenges I Created & Selected Tools](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#ctf-challenges-i-created--selected-tools)
 
 # Hall of Fame
 - Visma https://www.visma.com/trust-centre/security/products-and-services/bug-bounty-and-responsible-disclosure/hall-of-fame/
@@ -253,3 +254,6 @@ and maaaaaaaaaaaaany more!
 
 # Selected Articles and CTF Writeups
 - Selected CTF Writeups (and similar): [ctf-writeups](https://github.com/mbiesiad/ctf-writeups)
+
+# CTF Challenges I Created & Selected Tools
+- You can find them aggregated under this [link](https://github.com/mbiesiad/ctf-writeups?tab=readme-ov-file#ctf-challenges-i-created--selected-tools).
