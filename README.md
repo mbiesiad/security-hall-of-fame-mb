@@ -3,7 +3,7 @@
 
 # TOC - Table of contents
 1. [Hall of Fame](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-fame)
-2. [Hall of Thanks](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-thanks)
+2. [Hall of Thanks (Acknowledgements / Kudos)](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-thanks-acknowledgements--kudos)
 3. [Hall of Honors](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-honors)
 4. [Honorable Mentions](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#honorable-mentions)
 5. [Hall of Thanks - H1 platform](https://github.com/mbiesiad/security-hall-of-fame-mb?tab=readme-ov-file#hall-of-thanks---h1-platform)
@@ -55,7 +55,7 @@
 - Versuni https://www.versuni.com/security/hall-of-fame/
 - Delft University of Technology https://www.tudelft.nl/hall-of-fame 
 
-# Hall of Thanks
+# Hall of Thanks (Acknowledgements / Kudos)
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
 - DEV.TO / Forem https://dev.to/page/security
 - Checkpoint https://www.checkpoint.com/white-hat/
