@@ -155,8 +155,8 @@ Vulnerability Research - **the public known** CVEs I found.
   - CVE-2026-23839
 - CVE-2026-29856
 - CVE-2026-29857
-- CVE-2026-29858
-- CVE-2026-29859
+- CVE-2026-29858 - aaPanel
+- CVE-2026-29859 - aaPanel
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
