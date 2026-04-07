@@ -158,6 +158,8 @@ Vulnerability Research - **the public known** CVEs I found.
 - CVE-2026-29857
 - CVE-2026-29858 - aaPanel
 - CVE-2026-29859 - aaPanel
+- GHSA-8rvg-7w43-p2w2 - Plane platform
+  - CVE-2026-27949
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
