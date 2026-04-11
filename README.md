@@ -115,29 +115,21 @@
 
 # CVEs
 Vulnerability Research - **the public known** CVEs I found.
-- GHSA-6c37-r62q-7xf4 - freeCodeCamp
-- GHSA-mv6w-52pf-9qhf - Novu
-- GHSA-gx3w-rwh5-w5cg - Tolgee
-  - CVE-2023-41316
-- GHSA-xpfv-454c-3fj4 - OpenReplay
-  - CVE-2023-48226
-- GHSA-8r6h-8r68-q3pp - Hoppscotch
-  - CVE-2024-27092
-- GHSA-g78w-95q9-v739 - OpenOLAT
-- GHSA-r3jq-4r5c-j9hp - Taipy
-  - CVE-2024-47833
-- GHSA-w8vm-jx29-52fr - Novu
-- GHSA-3xhv-r4gx-xw99 - Weblate
-  - CVE-2025-61587
-- GHSA-cf57-c578-7jvv - Anubis
-  - CVE-2025-64716
+- CVE-2023-41316
+  - GHSA-gx3w-rwh5-w5cg - Tolgee
+- CVE-2023-48226
+  - GHSA-xpfv-454c-3fj4 - OpenReplay
+- CVE-2024-27092
+  - GHSA-8r6h-8r68-q3pp - Hoppscotch
+- CVE-2024-47833
+  - GHSA-r3jq-4r5c-j9hp - Taipy
+- CVE-2025-61587
+  - GHSA-3xhv-r4gx-xw99 - Weblate
+- CVE-2025-64716
+  - GHSA-cf57-c578-7jvv - Anubis
 - CVE-2025-61514 - CoCalc
-- GHSA-x39m-3393-3qp4 - FlowiseAI
-- GHSA-fjh6-8679-9pch - FlowiseAI
-- GHSA-x7rp-qj2h-ghgw - FlowiseAI
-- GHSA-76gj-pmvx-jcc6 - WBCE CMS
-  - CVE-2025-67504
-- GHSA-23rx-gprm-2hrh - WBCE CMS
+- CVE-2025-67504
+  - GHSA-76gj-pmvx-jcc6 - WBCE CMS
 - CVE-2025-67163
 - CVE-2025-67164
 - CVE-2025-67165
@@ -148,18 +140,26 @@ Vulnerability Research - **the public known** CVEs I found.
 - CVE-2025-67173
 - CVE-2025-67174
 - CVE-2026-1468
-- GHSA-v877-x568-4v5v - Movary
-  - CVE-2026-23841
-- GHSA-pj3m-gmq8-2r57 - Movary
-  - CVE-2026-23840
-- GHSA-v32w-5qx7-p3vq - Movary
-  - CVE-2026-23839
+- CVE-2026-23841
+  - GHSA-v877-x568-4v5v - Movary
+- CVE-2026-23840
+  - GHSA-pj3m-gmq8-2r57 - Movary
+- CVE-2026-23839
+  - GHSA-v32w-5qx7-p3vq - Movary
 - CVE-2026-29856
 - CVE-2026-29857
 - CVE-2026-29858 - aaPanel
 - CVE-2026-29859 - aaPanel
-- GHSA-8rvg-7w43-p2w2 - Plane platform
-  - CVE-2026-27949
+- CVE-2026-27949
+  - GHSA-8rvg-7w43-p2w2 - Plane platform
+- GHSA-6c37-r62q-7xf4 - freeCodeCamp
+- GHSA-mv6w-52pf-9qhf - Novu
+- GHSA-g78w-95q9-v739 - OpenOLAT
+- GHSA-w8vm-jx29-52fr - Novu
+- GHSA-x39m-3393-3qp4 - FlowiseAI
+- GHSA-fjh6-8679-9pch - FlowiseAI
+- GHSA-x7rp-qj2h-ghgw - FlowiseAI
+- GHSA-23rx-gprm-2hrh - WBCE CMS
 
 Dedicated repo: [here.](https://github.com/mbiesiad/vulnerability-research)
 
