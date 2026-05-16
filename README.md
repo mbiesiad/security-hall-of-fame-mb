@@ -88,7 +88,7 @@
 - Quora
 - Weblate
 - Cloudflare
-- Liverpool Victoria
+- Liverpool Victoria (LV=)
 - Nextcloud
 - Informatica
 - Shopify
