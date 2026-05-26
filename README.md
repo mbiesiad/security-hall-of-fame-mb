@@ -203,7 +203,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Ranked Top 3 (including #1) on the HackerOne Poland Leaderboard (Apr & May 2025)
 - Ranked Top 3 in Poland on the Google Bug Hunters Honorable Mentions Leaderboard (Apr 2025)
 - Listed among the Top GitHub contributors in Poland (Oct 2025)
-- Recognized among the Top 1% of TryHackMe users worldwide (2024 & 2025)
+- Recognized among the Top 1% of TryHackMe users worldwide (2024, 2025 & 2026)
 
 # Contributions to Security Ecosystem
 - Improved [GitHub Advisory Database](https://github.com/github/advisory-database/) - reported missing `CWE` and helped update official CWE list
