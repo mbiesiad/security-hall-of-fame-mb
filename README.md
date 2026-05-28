@@ -257,6 +257,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - PostHog (security swag)
 - Atos
 - Atlassian
+- Insomnia
 
 and maaaaaaaaaaaaany more!
 
