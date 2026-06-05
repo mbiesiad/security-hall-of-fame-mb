@@ -254,7 +254,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - ASSA ABLOY
 - Danfoss
 - Wingify
-- 2degrees
 - PostHog (security swag)
 - Atos
 - Atlassian
