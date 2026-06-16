@@ -76,6 +76,7 @@
 - Movary https://github.com/leepeuker/movary/releases/tag/0.70.0
 - 2degrees https://www.2degrees.nz/termsofuse/general/coordinated-vulnerability-disclosure-policy
 - Ericsson https://www.ericsson.com/en/about-us/security/vulnerability-reporting-form/acknowledgements
+- University of Oslo Computer Emergency Response Team (UiO-CERT) https://www.uio.no/english/services/it/security/cert/ (+ Letter of Appreciation)
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
