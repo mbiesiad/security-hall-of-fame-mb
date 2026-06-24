@@ -77,6 +77,7 @@
 - 2degrees https://www.2degrees.nz/termsofuse/general/coordinated-vulnerability-disclosure-policy
 - Ericsson https://www.ericsson.com/en/about-us/security/vulnerability-reporting-form/acknowledgements
 - University of Oslo Computer Emergency Response Team (UiO-CERT) https://www.uio.no/english/services/it/security/cert/ (+ Letter of Appreciation)
+- TP-Link https://www.tp-link.com/us/press/security-advisory/ (+ Letter of Appreciation)
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
@@ -259,7 +260,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Atos
 - Atlassian
 - Insomnia
-- TP-Link 
 
 and maaaaaaaaaaaaany more!
 
