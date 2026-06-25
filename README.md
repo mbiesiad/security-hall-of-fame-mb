@@ -260,6 +260,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Atos
 - Atlassian
 - Insomnia
+- SiteGround 
 
 and maaaaaaaaaaaaany more!
 
