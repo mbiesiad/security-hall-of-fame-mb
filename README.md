@@ -53,7 +53,8 @@
 - Technische Universitat Braunschweig https://www.tu-braunschweig.de/en/ciso/cert/responsible-disclosure/hall-of-fame
 - EC-Council https://www.eccouncil.org/bug-bounty/hall-of-fame/ (+ Certificate of Appreciation)
 - Versuni https://www.versuni.com/security/hall-of-fame/
-- Delft University of Technology https://www.tudelft.nl/hall-of-fame 
+- Delft University of Technology https://www.tudelft.nl/hall-of-fame
+- Niko https://www.niko.eu/en/security/coordinated-vulnerability-disclosure-hall-of-fame
 
 # Hall of Thanks (Acknowledgements / Kudos)
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
