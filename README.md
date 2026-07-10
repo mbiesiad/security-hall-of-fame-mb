@@ -56,6 +56,7 @@
 - Delft University of Technology https://www.tudelft.nl/hall-of-fame
 - Blackboard https://www.blackboard.com/trust-center/security-hall-of-fame
 - Niko https://www.niko.eu/en/security/coordinated-vulnerability-disclosure-hall-of-fame
+- TwentyOne Portfolio https://twentyoneportfolio.com/security
 
 # Hall of Thanks (Acknowledgements / Kudos)
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
