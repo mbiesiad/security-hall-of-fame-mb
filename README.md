@@ -46,7 +46,7 @@
 - Phenom https://www.phenom.com/hall_of_fame
 - Carrefour https://www.carrefour.com/.well-known/hall-of-fame.txt (Michalk)
 - StatusGator https://statusgator.com/blog/bug-bounty-hall-of-fame
-- Anthology https://www.anthology.com/trust-center/security-hall-of-fame
+- Anthology [https://www.anthology.com/trust-center/security-hall-of-fame](https://web.archive.org/web/20251228061932/https://www.anthology.com/trust-center/security-hall-of-fame)
 - Process Street https://www.process.st/responsible-disclosure/
 - Pescheck https://pescheck.io/responsible-disclosure-hall-of-fame/
 - TrustSource https://www.trustsource.io/en/hof/
