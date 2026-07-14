@@ -82,6 +82,7 @@
 - University of Oslo Computer Emergency Response Team (UiO-CERT) https://www.uio.no/english/services/it/security/cert/ (+ Letter of Appreciation)
 - TP-Link https://www.tp-link.com/us/press/security-advisory/ (+ Letter of Appreciation)
 - TeamViewer https://www.teamviewer.com/en/resources/trust-center/security-bulletins/ (Certificate of Appreciation)
+- SiteGround https://eu.siteground.com/viewtos/responsible_disclosure_policy (Honor Roll)
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
@@ -264,7 +265,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Atos
 - Atlassian
 - Insomnia
-- SiteGround
 - CERT TU Dresden
 - GEANT CERT (Gigabit European Academic Network)
 - SonarSource
