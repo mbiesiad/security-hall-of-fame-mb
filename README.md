@@ -58,7 +58,8 @@
 - Niko https://www.niko.eu/en/security/coordinated-vulnerability-disclosure-hall-of-fame
 - TwentyOne Portfolio https://twentyoneportfolio.com/security
 - VoucherCart https://vouchercart.com/security-hall-of-fame
-- BankID https://bankid.no/.well-known/hall-of-fame.html 
+- BankID https://bankid.no/.well-known/hall-of-fame.html
+- Kinde https://docs.kinde.com/trust-center/security/security-wall-of-fame/
 
 # Hall of Thanks (Acknowledgements / Kudos)
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
