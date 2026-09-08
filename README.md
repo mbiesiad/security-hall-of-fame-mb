@@ -218,7 +218,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Recognized among the Top 1% of TryHackMe users worldwide (2024, 2025 & 2026)
 
 # Contributions to Security Ecosystem
-- Improved [GitHub Advisory Database](https://github.com/github/advisory-database/) - reported missing `CWE` and helped update official CWE list
+- Improved [GitHub Advisory Database](https://github.com/github/advisory-database/) - reported/fixed missing `CWE` record/s and helped update official CWE list (+ own GHSA identifiers, and so on)
 - Contributions to projects like:
   - WhatsMyName
   - CTFtime (many issues created & fixed)
