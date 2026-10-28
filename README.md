@@ -191,6 +191,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
   - CWE-1391: Use of Weak Credentials - https://cwe.mitre.org/data/definitions/1391.html
   - CWE-598: Use of GET Request Method With Sensitive Query Strings - https://cwe.mitre.org/data/definitions/598.html
     - Ultimately led to the addition of a new record to the CWE glossary - https://cwe.mitre.org/documents/glossary/index.html#Sensitive%20Information
+  - [CWE 5.0/CWE Schema 8.0](https://cwe.mitre.org/news/archives/news2026.html#October28_CWE_Version_5_0_Schema_8_0_Now_Available)
  
 # ATT&CK™ (by MITRE): My Submissions and Contributions
 - Contributors List: https://attack.mitre.org/resources/engage-with-attack/contribute/
