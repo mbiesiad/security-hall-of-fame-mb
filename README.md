@@ -193,6 +193,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
     - Ultimately led to the addition of a new record to the CWE glossary - https://cwe.mitre.org/documents/glossary/index.html#Sensitive%20Information
 - [CWE 5.0/CWE Schema 8.0](https://cwe.mitre.org/news/archives/news2026.html#October28_CWE_Version_5_0_Schema_8_0_Now_Available)
   - CWE-1465: Improper Session Invalidation after User Logout - https://cwe.mitre.org/data/definitions/1465.html
+  - CWE-1466: Improper Session Invalidation after Authentication Credential Change - https://cwe.mitre.org/data/definitions/1466.html
  
 # ATT&CK™ (by MITRE): My Submissions and Contributions
 - Contributors List: https://attack.mitre.org/resources/engage-with-attack/contribute/
