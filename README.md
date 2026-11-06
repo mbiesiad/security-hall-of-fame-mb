@@ -60,6 +60,7 @@
 - VoucherCart https://vouchercart.com/security-hall-of-fame
 - BankID https://bankid.no/.well-known/hall-of-fame.html
 - Kinde https://docs.kinde.com/trust-center/security/security-wall-of-fame/
+- SonarSource https://community.sonarsource.com/t/responsible-vulnerability-disclosure/9317 
 
 # Hall of Thanks (Acknowledgements / Kudos)
 - Zooniverse https://blog.zooniverse.org/2022/12/20/fixed-cross-site-scripting-vulnerability-on-hosted-media-domains/
@@ -277,7 +278,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Insomnia
 - CERT TU Dresden
 - GEANT CERT (Gigabit European Academic Network)
-- SonarSource
 - Grayback security platform (+ https://app.grayback.es/ranking )
 
 and maaaaaaaaaaaaany more!
