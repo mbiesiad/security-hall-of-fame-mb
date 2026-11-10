@@ -220,7 +220,7 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Ranked #2 globally on Huntr.dev Leaderboard (prior to the platform's AI pivot; focused on Open Source projects – Aug 2023)
 - Ranked Top 3 (including #1) on the HackerOne Poland Leaderboard (Apr & May 2025)
 - Ranked Top 3 in Poland on the Google Bug Hunters Honorable Mentions Leaderboard (Apr 2025)
-- Listed among the Top GitHub contributors in Poland (Oct 2025)
+- Listed among the Top GitHub contributors in Poland (2020-2025, Oct 2026)
 - Recognized among the Top 1% of TryHackMe users worldwide (2024, 2025 & 2026)
 
 # Contributions to Security Ecosystem
