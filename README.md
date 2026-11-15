@@ -87,6 +87,7 @@
 - TP-Link https://www.tp-link.com/us/press/security-advisory/ (+ Letter of Appreciation)
 - TeamViewer https://www.teamviewer.com/en/resources/trust-center/security-bulletins/ (Certificate of Appreciation)
 - SiteGround https://eu.siteground.com/viewtos/responsible_disclosure_policy (Honor Roll)
+- Grayback security platform (+ https://app.grayback.es/ranking + Certificado Oficial de Reconocimiento e Impacto VDP / Official VDP Recognition and Impact Certificate)
 
 # Hall of Honors
 - Philips (2025 HOH) https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
@@ -278,7 +279,6 @@ Dedicated repo: [here.](https://github.com/mbiesiad/docker-image-disclosures)
 - Insomnia
 - CERT TU Dresden
 - GEANT CERT (Gigabit European Academic Network)
-- Grayback security platform (+ https://app.grayback.es/ranking )
 
 and maaaaaaaaaaaaany more!
 
